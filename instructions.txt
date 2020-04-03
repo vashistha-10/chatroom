@@ -1,0 +1,23 @@
+Instructions before you start :
+
+________________________________________________________________
+NOTE : You need any localhost server application preferrably XAMPP for both phpMyAdmin and Apache Localhost (otherwise it won't work).
+________________________________________________________________
+
+1) After downloading all the files first start with xampp and start MySQL and Apache localhost.
+2) Save all the files in 'htdocs' folder in xampp documents which you will find in local disk C.
+3) Open any browser (preferrably Google Chrome) and type localhost/index.php
+4) Enter your roomname and create and start chatting.
+
+_______________________________________________________________
+
+Acknowledments:
+
+1) W3School CSS formatting files have been imported in this project.
+2) JQueries function files have also been imported from code.jquery.com, cdn.jsdelivr.net and stackpath.bootstrapcdn.com
+
+______________________________________________________________
+
+Thanks
+Hosted by : Aman Vashistha, April 2020
+
